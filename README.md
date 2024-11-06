@@ -1,1 +1,1 @@
-# Finance-GNN
+# Finance-STOCK
